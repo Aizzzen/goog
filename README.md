@@ -1,5 +1,5 @@
 # Goog - клон браузера Google Chrome
-### Развернутое приложение: <a href="https://mygoog.netlify.app/search" target="_blank">Goog</a>
+### Развернутое приложение: <a href="https://goog-chrome.netlify.app/search" target="_blank">Goog</a>
 ### Могут быть задержки в работе из-за стороннего апи
 ### Технологии
 - React
